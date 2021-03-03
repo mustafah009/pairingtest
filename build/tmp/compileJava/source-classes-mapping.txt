@@ -1,0 +1,4 @@
+com/olr/pairingtest/PairingtestApplication.java
+ com.olr.pairingtest.PairingtestApplication
+com/olr/pairingtest/Palindrome.java
+ com.olr.pairingtest.Palindrome
